@@ -9,4 +9,5 @@ Feel free to reach out to me:
 - LinkedIn: [Makaila's LinkedIn Profile](www.linkedin.com/in/makailahall)
 ## Badges
 This is just an example lol
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
