@@ -7,4 +7,5 @@ Feel free to reach out to me:
 
 - Email: Makailah004@gmail.com
 - LinkedIn: [Makaila's LinkedIn Profile](www.linkedin.com/in/makailahall)
-
+## Badges
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
