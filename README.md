@@ -6,5 +6,5 @@ Welcome to my profile repository! Here you can find information about me, my int
 Feel free to reach out to me:
 
 - Email: Makailah004@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/makailahall)
+- LinkedIn: [Makaila's LinkedIn Profile](www.linkedin.com/in/makailahall)
 
